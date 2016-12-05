@@ -1,0 +1,26 @@
+{
+  "name": "lim-it",
+  "version": "1.0.0",
+  "description": "Limit a number between a range",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neolwc/lim-it.git"
+  },
+  "keywords": [
+    "limit",
+    "keep",
+    "number",
+    "between",
+    "range"
+  ],
+  "author": "Neo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neolwc/lim-it/issues"
+  },
+  "homepage": "https://github.com/neolwc/lim-it#readme"
+}
